@@ -6,7 +6,7 @@
   "readme": "readme.md",
   "icon": "icon.png",
   "files": [],
-  "minVersionCode" : 290,
+  "minVersionCode" : 330,
   "price": 0,
   "author": {
     "name": "",
